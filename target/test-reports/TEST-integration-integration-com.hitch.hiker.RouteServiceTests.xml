@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Alex" name="com.hitch.hiker.RouteServiceTests" tests="6" time="0.953" timestamp="2013-07-20T11:24:30">
+  <properties />
+  <testcase classname="com.hitch.hiker.RouteServiceTests" name="testIsHost" time="0.055" />
+  <testcase classname="com.hitch.hiker.RouteServiceTests" name="testMyRoutes" time="0.168" />
+  <testcase classname="com.hitch.hiker.RouteServiceTests" name="testCreation" time="0.028" />
+  <testcase classname="com.hitch.hiker.RouteServiceTests" name="testUserParticipation" time="0.121" />
+  <testcase classname="com.hitch.hiker.RouteServiceTests" name="testFetchAndDelete" time="0.043" />
+  <testcase classname="com.hitch.hiker.RouteServiceTests" name="testRouteSearch" time="0.527" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
