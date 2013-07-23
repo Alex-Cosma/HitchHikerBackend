@@ -1,9 +1,0 @@
-Testsuite: com.hitch.hiker.RouteServiceTests
-Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 0.953 sec
-
-Testcase: testIsHost took 0.055 sec
-Testcase: testMyRoutes took 0.168 sec
-Testcase: testCreation took 0.028 sec
-Testcase: testUserParticipation took 0.121 sec
-Testcase: testFetchAndDelete took 0.043 sec
-Testcase: testRouteSearch took 0.527 sec
